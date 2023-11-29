@@ -280,6 +280,18 @@ nav {
   z-index: 2;
 }
 
+@supports not (backdrop-filter: blur(30px)) {
+  nav {
+    backdrop-filter: none; /* Fallback styles without backdrop-filter */
+    background-color: rgba(
+      255,
+      255,
+      255,
+      0.8
+    ); /* Adjust alpha value as needed */
+  }
+}
+
 .render-container > .project-container > .top-bar {
   padding: 0rem;
   height: 68px;

@@ -20,20 +20,26 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   // Add click event listeners to your buttons
-  document.getElementById("workButton").addEventListener("click", (event) => {
-    event.preventDefault();
-    loadPageData("work");
-  });
+  document
+    .getElementById("newworkButton")
+    .addEventListener("click", (event) => {
+      event.preventDefault();
+      loadPageData("work");
+    });
 
-  document.getElementById("homeButton").addEventListener("click", (event) => {
-    event.preventDefault();
-    loadPageData("home");
-  });
+  document
+    .getElementById("newhomeButton")
+    .addEventListener("click", (event) => {
+      event.preventDefault();
+      loadPageData("home");
+    });
 
-  document.getElementById("aboutButton").addEventListener("click", (event) => {
-    event.preventDefault();
-    loadPageData("about");
-  });
+  document
+    .getElementById("newaboutButton")
+    .addEventListener("click", (event) => {
+      event.preventDefault();
+      loadPageData("about");
+    });
 
   // Check if a hash in the URL to load the appropriate page
   const initialPage = window.location.hash

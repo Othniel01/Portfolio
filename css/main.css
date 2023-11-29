@@ -271,7 +271,16 @@ nav > a {
   color: var(--dark-light-text);
 }
 
-nav {
+.dark-mode nav {
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  backdrop-filter: blur(30px);
+  z-index: 2;
+}
+
+.light-mode nav {
   display: flex;
   position: fixed;
   align-items: center;
@@ -281,14 +290,13 @@ nav {
 }
 
 @supports not (backdrop-filter: blur(30px)) {
-  nav {
+  .dark-mode nav {
     backdrop-filter: none; /* Fallback styles without backdrop-filter */
-    background-color: rgba(
-      255,
-      255,
-      255,
-      0.8
-    ); /* Adjust alpha value as needed */
+    background-color: var(--bg-primary-dark);
+  }
+  .light-mode nav {
+    backdrop-filter: none; /* Fallback styles without backdrop-filter */
+    background-color: var(--bg-primary-light);
   }
 }
 

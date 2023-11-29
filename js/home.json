@@ -1,0 +1,46 @@
+{
+  "intro": {
+    "imageSrc": "../img/scared.jpeg",
+    "title": "Hi, I'm Othniel",
+    "description": "I am a software designer and developer living in Abuja, Nigeria. Currently, I am a student at Veritas University and starting as a front-end developer freelancer from the comfort of my home."
+  },
+  "buttons": [
+    {
+      "text": "Check Out My Work",
+      "link": "work"
+    },
+    {
+      "text": "More About Me",
+      "link": "about"
+    }
+  ],
+  "projects": [
+    {
+      "date": "August 2023",
+      "title": "Design Of Tech Portal NCC",
+      "subtitle": "August 28th, 2023",
+      "imageSrc": "./img/DIZNUUTS.png",
+      "projectTitle": "Tech Portal",
+      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
+      "projectLink": "#"
+    },
+    {
+      "date": "July 2023",
+      "title": "Development of Vyshun.com",
+      "subtitle": "May 7th, 2021",
+      "imageSrc": "./img/DIZNUUTS.png",
+      "projectTitle": "Deeznuts",
+      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
+      "projectLink": "#"
+    },
+    {
+      "date": "May 2021",
+      "title": "Released New Design",
+      "subtitle": "May 7th, 2021",
+      "imageSrc": "./img/DIZNUUTS.png",
+      "projectTitle": "Deeznuts",
+      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
+      "projectLink": "#"
+    }
+  ]
+}

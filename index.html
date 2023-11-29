@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/main.css" />
+    <title>Othniel Abalaka| Home</title>
+  </head>
+  <body class="dark-mode">
+    <div class="ham-overlay">
+      <a id="homeButton" href="#">Home</a>
+      <a id="workButton" href="#">Work</a>
+      <a id="aboutButton" href="#">AboutMe</a>
+    </div>
+    <nav class="main-nav span-100 juria">
+      <h1 class="hide"></h1>
+      <a href="#" class="logo" id="homeLink">OTHNIEL ABALAKA</a>
+
+      <div class="secondary-container">
+        <a href="#" class="workLink none" id="workLink">Work</a>
+        <a href="#" class="aboutLink none" id="aboutLink">AboutMe</a>
+        <img
+          src="./svg/light-mode.svg"
+          id="darkModeToggle"
+          alt="#"
+          class="light-dark-mode"
+        />
+
+        <div
+          id="hamburger"
+          class="mobile-active off hamburger hamburger--emphatic"
+        >
+          <div class="hamburger-box">
+            <div class="hamburger-inner"></div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <section
+      id="render-container"
+      class="render-container p-b8 span-100"
+    ></section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.0/anime.min.js"></script>
+
+    <script src="./js/main.js"></script>
+    <script src="./js/dark-light.js"></script>
+  </body>
+</html>

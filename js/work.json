@@ -1,0 +1,50 @@
+{
+  "galleryTitle": "Work Gallery",
+  "years": [
+    {
+      "year": "2021",
+      "projects": [
+        {
+          "title": "VYSHUN FIRM",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
+          "imageSrc": "../img/dog-face.jpeg",
+          "website": "https://www.vyshun.com"
+        },
+        {
+          "title": "VYSHUN FIRM",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
+          "imageSrc": "../img/dog-face.jpeg",
+          "website": "https://www.vyshun.com"
+        },
+        {
+          "title": "VYSHUN FIRM",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
+          "imageSrc": "../img/dog-face.jpeg",
+          "website": "https://www.vyshun.com"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "projects": [
+        {
+          "title": "Project X",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "Activision approached us again in 2021 to reinvent the bracket builder from the previous season. Pick'Em did so in just about every way imaginable.",
+          "imageSrc": "./img/project-x.png",
+          "website": "#"
+        },
+        {
+          "title": "Project Y",
+          "roles": ["RoleA", "RoleB"],
+          "description": "Activision approached us again in 2021 to reinvent the bracket builder from the previous season. Pick'Em did so in just about every way imaginable.",
+          "imageSrc": "./img/project-y.png",
+          "website": "#"
+        }
+      ]
+    }
+  ]
+}

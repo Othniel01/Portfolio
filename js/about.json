@@ -1,0 +1,21 @@
+{
+  "about": {
+    "imageSrc": "./img/eye-stuff.jpeg",
+    "title": "About Me",
+    "description": "I'm a 20-year-old dude based in Abuja, Nigeria, currently at my final year for a degree in computer science at Veritas University. During my academic journey, I find balance by immersing myself in the gaming world, although my skills in Elden Ring are a work in progress. Throughout the day, I focus on my studies, aiming to make significant contributions to the tech industry in the future. In addition to my academic pursuits, I engage in freelance front-end development work, applying my skills to various projects. Over the past decade, I've explored various creative outlets, ranging from graphic design to other artistic pursuits. I'm currently open to jobs."
+  },
+  "contact": [
+    {
+      "type": "EMAIL",
+      "value": "othnielabalaka@gmail.com"
+    },
+    {
+      "type": "TWITTER",
+      "value": "@Othnielcodes"
+    },
+    {
+      "type": "LINKEDIN",
+      "value": "/othnielabalaka"
+    }
+  ]
+}

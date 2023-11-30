@@ -294,7 +294,7 @@ function renderContact(contactData) {
       ${contactData
         .map(
           (contact) => `
-            <a href="#" class="m-t1 contact-box">
+            <a target="_blank" href="${contact.find}" class="m-t1 contact-box">
               <p>${contact.type}</p>
               <h1>${contact.value}</h1>
             </a>`

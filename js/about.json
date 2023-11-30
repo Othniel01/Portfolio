@@ -7,15 +7,18 @@
   "contact": [
     {
       "type": "EMAIL",
-      "value": "othnielabalaka@gmail.com"
+      "value": "othnielabalaka@gmail.com",
+      "find": "mailto:othnielabalaka@gmail.com"
     },
     {
       "type": "TWITTER",
-      "value": "@Othnielcodes"
+      "value": "@Othnielcodes",
+      "find": "https://twitter.com/AtOthnielcodes?t=8hbozszIgAAfJ3Ckcc3NGQ&s=09"
     },
     {
       "type": "LINKEDIN",
-      "value": "/othnielabalaka"
+      "value": "/othnielabalaka",
+      "find": "https://www.linkedin.com/in/othniel-abalaka-885b50243"
     }
   ]
 }

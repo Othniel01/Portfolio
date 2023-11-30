@@ -204,7 +204,7 @@ function renderProjects(projectsData) {
           <img src="./svg/plus.png" alt="#" />
           <span>
             <h1>${project.title}</h1>
-            <p class="dark-text">${project.subtitle}</p>
+            <p class="dark-text m-t-0-5">${project.subtitle}</p>
           </span>
         </div>
 
@@ -214,7 +214,7 @@ function renderProjects(projectsData) {
           <span class="project-links">
             <h1>${project.projectTitle}</h1>
             <p class="m-t-0-5">${project.projectDescription}</p>
-            <a class="flex-this m-t1" href="${project.projectLink}">
+            <a target="_blank" class="flex-this intro-link m-t1" href="${project.projectLink}">
               <img src="./svg/link.svg" alt="#" /> Website
             </a>
           </span>

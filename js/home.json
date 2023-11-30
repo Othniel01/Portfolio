@@ -19,28 +19,46 @@
       "date": "August 2023",
       "title": "Design Of Tech Portal NCC",
       "subtitle": "August 28th, 2023",
-      "imageSrc": "./img/DIZNUUTS.png",
+      "imageSrc": "../img/tech-portal.jpg",
       "projectTitle": "Tech Portal",
-      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
-      "projectLink": "#"
+      "projectDescription": "I built & designed a website for the new media dept at the Nigerian communications commission...",
+      "projectLink": "https://techportal.vercel.app/"
     },
     {
       "date": "July 2023",
       "title": "Development of Vyshun.com",
       "subtitle": "May 7th, 2021",
-      "imageSrc": "./img/DIZNUUTS.png",
-      "projectTitle": "Deeznuts",
-      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
-      "projectLink": "#"
+      "imageSrc": "../img/vyshun-project.png",
+      "projectTitle": "Vyshun",
+      "projectDescription": "I built & designed a website for one of the best web dev agencies in India...",
+      "projectLink": "https://vyshun.com/"
+    },
+    {
+      "date": "July 2022",
+      "title": "Deployment of Devspert",
+      "subtitle": "July 18th, 2022",
+      "imageSrc": "../img/devspert.jpg",
+      "projectTitle": "Devspert",
+      "projectDescription": "I built & designed a website for my uncles web dev company called devspert...",
+      "projectLink": "https://deft-heliotrope-a4bbe7.netlify.app/"
     },
     {
       "date": "May 2021",
-      "title": "Released New Design",
+      "title": "First/Old Portfolio Website",
       "subtitle": "May 7th, 2021",
-      "imageSrc": "./img/DIZNUUTS.png",
-      "projectTitle": "Deeznuts",
-      "projectDescription": "We built a website for one of the best talent agencies in the gaming space...",
-      "projectLink": "#"
+      "imageSrc": "../img/old-portfolio.jpg",
+      "projectTitle": "Othniel.com",
+      "projectDescription": "I built & designed my first portfolio website ...",
+      "projectLink": "https://velvety-praline-91889a.netlify.app/"
+    },
+    {
+      "date": "August 2020",
+      "title": "Very First Website",
+      "subtitle": "August 20th, 2020",
+      "imageSrc": "../img/edmos.jpg",
+      "projectTitle": "Edmos Heights",
+      "projectDescription": "I built & designed my first website about a hotel called Edmos Heights ...",
+      "projectLink": "https://comforting-manatee-6e1677.netlify.app/"
     }
   ]
 }

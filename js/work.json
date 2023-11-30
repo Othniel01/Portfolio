@@ -2,28 +2,40 @@
   "galleryTitle": "Work Gallery",
   "years": [
     {
-      "year": "2021",
+      "year": "2023",
       "projects": [
         {
           "title": "VYSHUN FIRM",
           "roles": ["Designer", "Front-end Developer"],
           "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
-          "imageSrc": "../img/dog-face.jpeg",
+          "imageSrc": "../img/vyshun-project.png",
           "website": "https://www.vyshun.com"
         },
         {
-          "title": "VYSHUN FIRM",
+          "title": "Tech Portal NCC",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
-          "imageSrc": "../img/dog-face.jpeg",
+          "description": "Rounding off my internship at the nigerian communications commission, I wanted to give back to the commission for giving me a shot and creating the tech portal for the new media dept was the best gift. Tho a blank, here is how the website would look like.",
+          "imageSrc": "../img/tech-portal.jpg",
           "website": "https://www.vyshun.com"
+        }
+      ]
+    },
+    {
+      "year": "2022/2021",
+      "projects": [
+        {
+          "title": "Deployment of Devspert",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "I was bored on a particular sunday afternoon and learnt my uncle was planning to create a web development company called devspert, with all that boredom, a plate of jollof rice and a bottle of coke, designed and developed devsperts website.",
+          "imageSrc": "../img/devspert.jpg",
+          "website": "https://deft-heliotrope-a4bbe7.netlify.app/"
         },
         {
-          "title": "VYSHUN FIRM",
+          "title": "First Portfolio Website",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
-          "imageSrc": "../img/dog-face.jpeg",
-          "website": "https://www.vyshun.com"
+          "description": "I was feeling very insecure on my web dev journey, had nothing cool to show off my work. I won't lie that was my real inspiration for creating this website back then. And was constantly seeing and learning about the importance of having one.",
+          "imageSrc": "../img/old-portfolio.jpg",
+          "website": "https://velvety-praline-91889a.netlify.app/"
         }
       ]
     },
@@ -31,18 +43,11 @@
       "year": "2020",
       "projects": [
         {
-          "title": "Project X",
+          "title": "Edmos Heights",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "Activision approached us again in 2021 to reinvent the bracket builder from the previous season. Pick'Em did so in just about every way imaginable.",
-          "imageSrc": "./img/project-x.png",
-          "website": "#"
-        },
-        {
-          "title": "Project Y",
-          "roles": ["RoleA", "RoleB"],
-          "description": "Activision approached us again in 2021 to reinvent the bracket builder from the previous season. Pick'Em did so in just about every way imaginable.",
-          "imageSrc": "./img/project-y.png",
-          "website": "#"
+          "description": "I was just starting out my tech jounrey and after tutorial hell I pushed myself to create something. that something birthed my very first website. It is about a luxurious hotel called Edmos Heights, with a spa, gym and restaurant.",
+          "imageSrc": "../img/edmos.jpg",
+          "website": "https://comforting-manatee-6e1677.netlify.app/"
         }
       ]
     }

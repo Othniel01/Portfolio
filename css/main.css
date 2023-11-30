@@ -289,6 +289,11 @@ nav > a {
   z-index: 2;
 }
 
+.intro-link > img {
+  width: 13px !important;
+  height: 13px !important;
+}
+
 @supports not (backdrop-filter: blur(30px)) {
   .dark-mode nav {
     backdrop-filter: none; /* Fallback styles without backdrop-filter */

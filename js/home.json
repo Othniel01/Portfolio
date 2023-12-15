@@ -16,6 +16,15 @@
   ],
   "projects": [
     {
+      "date": "December 2023",
+      "title": "Design Of Arab Law Firm",
+      "subtitle": "December 8th, 2023",
+      "imageSrc": "../img/law-arab-firm.jpg",
+      "projectTitle": "Arab Firm",
+      "projectDescription": "I designed a website for an imaginary law firm called Arab Firm...",
+      "projectLink": "https://www.figma.com/proto/aIle9VC6Ywc4NG7IOoc1CN/Arab-Firm?page-id=0%3A1&type=design&node-id=31-16&viewport=1315%2C-522%2C0.28&t=Mg3LXZ5SA25ut8cZ-1&scaling=min-zoom&mode=design"
+    },
+    {
       "date": "August 2023",
       "title": "Design Of Tech Portal NCC",
       "subtitle": "August 28th, 2023",

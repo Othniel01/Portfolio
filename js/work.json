@@ -5,6 +5,13 @@
       "year": "2023",
       "projects": [
         {
+          "title": "ARAB FIRM",
+          "roles": ["Designer"],
+          "description": "Just a basic figma design of an imaginary arab law firm called, well you guessed right, ARAB FIRM.",
+          "imageSrc": "../img/law-arab-firm.jpg",
+          "website": "https://www.figma.com/proto/aIle9VC6Ywc4NG7IOoc1CN/Arab-Firm?page-id=0%3A1&type=design&node-id=31-16&viewport=1315%2C-522%2C0.28&t=Mg3LXZ5SA25ut8cZ-1&scaling=min-zoom&mode=design"
+        },
+        {
           "title": "VYSHUN FIRM",
           "roles": ["Designer", "Front-end Developer"],
           "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",

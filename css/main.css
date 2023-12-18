@@ -23,6 +23,23 @@
 .semi-bold {
   font-weight: 500;
 }
+.work-content {
+  height: 163px;
+  overflow-y: scroll;
+}
+
+.work-content::-webkit-scrollbar {
+  width: 5px; /* Adjust the width as needed */
+}
+
+.work-content::-webkit-scrollbar-thumb {
+  background-color: #555; /* Change the color of the scrollbar thumb */
+  border-radius: 10px; /* Optional: Add rounded corners to the thumb */
+}
+
+.work-content::-webkit-scrollbar-track {
+  background-color: transparent; /* Change the color of the scrollbar track */
+}
 
 a {
   text-decoration: none !important;
@@ -407,6 +424,30 @@ nav > div > a {
 
 .main-nav {
   height: 80px;
+  position: relative;
+}
+
+.time-stamp {
+  position: absolute;
+  right: 20px;
+  font-size: 1rem;
+  top: 100px;
+  border-radius: 19px;
+  width: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 26px;
+}
+
+.dark-mode .time-stamp {
+  color: var(--dark-light-text);
+  border: 1px solid var(--dark-light-text);
+}
+
+.light-mode .time-stamp {
+  color: var(--dark-text);
+  border: 1px solid var(--dark-text);
 }
 
 .dark-mode .main-nav {
@@ -965,6 +1006,21 @@ nav > div > a {
     position: absolute;
     top: 58px;
     left: 30px;
+  }
+}
+
+@media (max-width: 1028px) {
+  .time-stamp {
+    position: absolute;
+    right: 20px;
+    font-size: 1rem;
+    top: 100px;
+    border-radius: 19px;
+    width: 85px;
+    display: none !important;
+    align-items: center;
+    justify-content: center;
+    height: 26px;
   }
 }
 

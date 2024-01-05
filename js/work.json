@@ -40,7 +40,7 @@
       ]
     },
     {
-      "year": "2022/2021",
+      "year": "2020 - 2022",
       "projects": [
         {
           "title": "Deployment of Devspert",
@@ -55,12 +55,7 @@
           "description": "I was feeling very insecure on my web dev journey, had nothing cool to show off my work. I won't lie that was my real inspiration for creating this website back then. And was constantly seeing and learning about the importance of having one.",
           "imageSrc": "../img/old-portfolio.jpg",
           "website": "https://velvety-praline-91889a.netlify.app/"
-        }
-      ]
-    },
-    {
-      "year": "2020",
-      "projects": [
+        },
         {
           "title": "Edmos Heights",
           "roles": ["Designer", "Front-end Developer"],

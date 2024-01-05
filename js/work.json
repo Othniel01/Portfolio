@@ -2,6 +2,18 @@
   "galleryTitle": "Work Gallery",
   "years": [
     {
+      "year": "2024",
+      "projects": [
+        {
+          "title": "Krib Homes ng",
+          "roles": ["Designer", "Front-end Developer"],
+          "description": "Had the honour to be the lead designer and developer for krib homes new website. Krib homes is imaginary, a placeholder for where your company name belongs, contact me today.",
+          "imageSrc": "../img/krib homes.png",
+          "website": "#home"
+        }
+      ]
+    },
+    {
       "year": "2023",
       "projects": [
         {
@@ -23,7 +35,7 @@
           "roles": ["Designer", "Front-end Developer"],
           "description": "Rounding off my internship at the nigerian communications commission, I wanted to give back to the commission for giving me a shot and creating the tech portal for the new media dept was the best gift. Tho a blank, here is how the website would look like.",
           "imageSrc": "../img/tech-portal.jpg",
-          "website": "https://www.vyshun.com"
+          "website": "https://techportal.vercel.app/"
         }
       ]
     },

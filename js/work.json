@@ -19,21 +19,21 @@
         {
           "title": "ARAB FIRM",
           "roles": ["Designer"],
-          "description": "Just a basic figma design of an imaginary arab law firm. The logo was designed by me. It is also a basic logo too, but one that incoporates the firm name.",
+          "description": "I had the oppurtunity to design an arab law firm in my free time and sharpen my eye for design experimenting with new colors",
           "imageSrc": "../img/law-arab-firm.jpg",
           "website": "https://www.figma.com/proto/aIle9VC6Ywc4NG7IOoc1CN/Arab-Firm?page-id=0%3A1&type=design&node-id=31-16&viewport=1315%2C-522%2C0.28&t=Mg3LXZ5SA25ut8cZ-1&scaling=min-zoom&mode=design"
         },
         {
           "title": "VYSHUN FIRM",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. One that stood out and represented what thier company stood for. Presently Vyshun is doing extremely well thanks to thier new site and search optimization.",
+          "description": "Vyshun approached me  in 2023 to design and create a website for thier software development firm. Presently Vyshun is doing extremely well.",
           "imageSrc": "../img/vyshun-project.png",
           "website": "https://www.vyshun.com"
         },
         {
           "title": "Tech Portal NCC",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "Rounding off my internship at the nigerian communications commission, I wanted to give back to the commission for giving me a shot and creating the tech portal for the new media dept was the best gift. Tho a blank, here is how the website would look like.",
+          "description": "I had the oppurtunity and was tasked with creating a tech portal for the new media department at Ncc.",
           "imageSrc": "../img/tech-portal.jpg",
           "website": "https://techportal.vercel.app/"
         }
@@ -45,21 +45,21 @@
         {
           "title": "Deployment of Devspert",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "I was bored on a particular sunday afternoon and learnt my uncle was planning to create a web development company called devspert, with all that boredom, a plate of jollof rice and a bottle of coke, designed and developed devsperts website.",
+          "description": "I was bored on a particular sunday afternoon and learnt my uncle was planning to create a web development company called devspert. I helped",
           "imageSrc": "../img/devspert.jpg",
           "website": "https://deft-heliotrope-a4bbe7.netlify.app/"
         },
         {
           "title": "First Portfolio Website",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "I was feeling very insecure on my web dev journey, had nothing cool to show off my work. I won't lie that was my real inspiration for creating this website back then. And was constantly seeing and learning about the importance of having one.",
+          "description": "I was feeling very insecure on my web dev journey, had nothing cool to show off my work. That was my motivation behind this.",
           "imageSrc": "../img/old-portfolio.jpg",
           "website": "https://velvety-praline-91889a.netlify.app/"
         },
         {
           "title": "Edmos Heights",
           "roles": ["Designer", "Front-end Developer"],
-          "description": "I was just starting out my tech jounrey and after tutorial hell I pushed myself to create something. that something birthed my very first website. It is about a luxurious hotel called Edmos Heights, with a spa, gym and restaurant.",
+          "description": "I was just starting out my tech jounrey and after tutorial hell I pushed myself to create something. My first website, edmos heights",
           "imageSrc": "../img/edmos.jpg",
           "website": "https://comforting-manatee-6e1677.netlify.app/"
         }

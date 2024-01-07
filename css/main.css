@@ -782,7 +782,7 @@ nav > div > a {
 }
 
 .light-mode .link-btn {
-  background-color: var(--bg-primary-dark);
+  background-color: #333;
   color: var(--very-light-text);
 }
 
